@@ -6,4 +6,4 @@
 
 
 <h3>Contact Us</h3>
-<img align="left" alt="logo | YouTube" width="200px" src="https://github.com/Michael9905/mPowerGroups/blob/main/images/mPowerContact.png?raw=true"/><br>
+<img align="left" alt="logo | YouTube" width="900px" src="https://github.com/Michael9905/mPowerGroups/blob/main/images/mPowerContact.png?raw=true"/><br>
