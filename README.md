@@ -16,3 +16,5 @@
 
 <h3><a href="contact.html">Contact Us</a></h3>
 <img align="left" alt="logo | YouTube" width="900px" src="https://github.com/Michael9905/mPowerGroups/blob/main/images/mPowerContact.png?raw=true"/><br>
+<img align="left" alt="logo | YouTube" width="900px" src="https://github.com/Michael9905/mPowerGroups/blob/main/mPowerGroups_Figma.png?raw=true"/><br>
+
